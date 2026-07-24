@@ -64,9 +64,9 @@ constituir uma mais-valia para outros estudantes.
 
 ## Código LaTeX
 
-O ficheiro-fonte principal ainda não foi acrescentado ao repositório. Quando
-for disponibilizado, ficará na pasta [`Livro/Fonte_LaTeX/`](Livro/Fonte_LaTeX/).
-O PDF e todo o arquivo manuscrito já podem ser consultados.
+A fonte LaTeX não é disponibilizada publicamente. O repositório permite consultar
+a versão compilada em PDF, os manuscritos originais e o histórico de
+desenvolvimento, mas não contém o ficheiro-fonte editável do livro.
 
 ## Autoria e uso de inteligência artificial
 
