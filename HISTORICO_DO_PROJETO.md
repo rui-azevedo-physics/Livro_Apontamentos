@@ -18,16 +18,16 @@ histórico Git completo permanece a fonte cronológica mais detalhada.
 
 O trabalho deste dia começou com a escrita do subcapítulo **Limite clássico das
 estatísticas quânticas**, no qual foi explicada a aproximação das distribuições
-de Fermi--Dirac e Bose--Einstein à distribuição de Maxwell--Boltzmann quando a
+de Fermi–Dirac e Bose–Einstein à distribuição de Maxwell–Boltzmann quando a
 ocupação média dos estados é pequena.
 
 Ao longo do dia:
 
 - foram organizados, revistos e transcritos para LaTeX os três blocos que
-  desenvolvem a função de partição, as distribuições de Fermi--Dirac e
-  Bose--Einstein e o respetivo limite clássico;
+  desenvolvem a função de partição, as distribuições de Fermi–Dirac e
+  Bose–Einstein e o respetivo limite clássico;
 - foi uniformizada a notação do capítulo 8 e revista a passagem relativa aos
-  bosões, fazendo a condição \(\epsilon>\mu\) surgir da convergência da série
+  bosões, fazendo a condição $\varepsilon>\mu$ surgir da convergência da série
   geométrica, em vez de ser apresentada como uma hipótese;
 - foi definida a norma gráfica das figuras do livro e foram preparados os
   pedidos para recriar três esquemas de interação térmica, reservatório de calor
