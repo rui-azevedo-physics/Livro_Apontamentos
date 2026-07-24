@@ -11,8 +11,33 @@ histórico Git completo permanece a fonte cronológica mais detalhada.
 | 4 de julho de 2026 | Revisão dos capítulos e desenvolvimento do equilíbrio difusivo e do potencial químico. |
 | 14 de julho de 2026 | Fecho do capítulo 7, incluindo exemplos, figuras e resumo. |
 | 16 de julho de 2026 | Conclusão do primeiro subcapítulo de estatística quântica nos manuscritos. |
-| 23 de julho de 2026 | Adição dos manuscritos originais dos capítulos 7 e 8. |
-| 24 de julho de 2026 | Publicação da versão de 96 páginas e reorganização integral do repositório. |
+| 23 de julho de 2026 | Escrita do subcapítulo sobre o limite clássico das estatísticas quânticas, revisão e transcrição do capítulo 8, desenvolvimento editorial do livro e publicação dos manuscritos originais. |
+| 24 de julho de 2026 | Publicação da versão de 96 páginas, reorganização integral do repositório e documentação pública do projeto. |
+
+## Trabalho realizado em 23 de julho de 2026
+
+O trabalho deste dia começou com a escrita do subcapítulo **Limite clássico das
+estatísticas quânticas**, no qual foi explicada a aproximação das distribuições
+de Fermi--Dirac e Bose--Einstein à distribuição de Maxwell--Boltzmann quando a
+ocupação média dos estados é pequena.
+
+Ao longo do dia:
+
+- foram organizados, revistos e transcritos para LaTeX os três blocos que
+  desenvolvem a função de partição, as distribuições de Fermi--Dirac e
+  Bose--Einstein e o respetivo limite clássico;
+- foi uniformizada a notação do capítulo 8 e revista a passagem relativa aos
+  bosões, fazendo a condição \(\epsilon>\mu\) surgir da convergência da série
+  geométrica, em vez de ser apresentada como uma hipótese;
+- foi definida a norma gráfica das figuras do livro e foram preparados os
+  pedidos para recriar três esquemas de interação térmica, reservatório de calor
+  e parede móvel;
+- foram revistas a capa e a apresentação inicial, incluindo o subtítulo
+  *Apontamentos pessoais de Física Estatística*, a moldura e a Nota ao leitor;
+- foram preparados o fecho editorial do livro e o easter egg que liga o PDF ao
+  repositório;
+- foram reunidos e publicados no GitHub os manuscritos originais dos capítulos
+  7 e 8.
 
 ## Commits de referência
 
