@@ -15,7 +15,7 @@ para apresentar o livro na página principal do repositório.
 
 - `Fundamentos_de_Fisica_Estatistica.pdf`: versão mais recente do livro;
 - `Figuras/`: figuras atualmente arquivadas para utilização no livro;
-- `Fonte_LaTeX/`: localização reservada para o código-fonte.
+- `Fonte_LaTeX/`: nota sobre a não disponibilização pública do código-fonte.
 
 As versões anteriores do PDF foram preservadas em
 [`../Arquivo/Versoes_anteriores/PDFs/`](../Arquivo/Versoes_anteriores/PDFs/).
