@@ -1,0 +1,24 @@
+# Ficheiros auxiliares de LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+
+# Ficheiros temporários de editores e sistema
+*~
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
