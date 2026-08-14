@@ -6,6 +6,8 @@ projeto, embora não corresponda à versão atual do livro.
 ## Conteúdo
 
 - `Versoes_anteriores/PDFs/`: compilações anteriores do livro;
+- `Capitulos_separados/`: digitalizações de capítulos e subcapítulos
+  preservadas como documentos independentes;
 - `Material_nao_utilizado/`: rascunhos e figuras que não passaram à versão
   atual;
 - `Material_de_apoio/Fourier/`: apontamentos de apoio arquivados à parte do

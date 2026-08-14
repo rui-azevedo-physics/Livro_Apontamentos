@@ -23,7 +23,11 @@ da bibliografia da unidade curricular. Procura apresentar capítulos concisos,
 ligados entre si e fáceis de consultar, reconstruindo os passos intermédios que
 frequentemente ficam implícitos em exposições mais breves.
 
-A versão atualmente publicada tem **96 páginas** e inclui:
+A versão **v1.0**, primeira versão integral do livro, tem **118 páginas**. O
+conteúdo está completo de acordo com o plano assumido para esta edição, embora
+permaneça sujeito à leitura integral e a correções posteriores.
+
+Inclui:
 
 - princípios, postulados e definições da Física Estatística;
 - interação de sistemas macroscópicos;
@@ -31,8 +35,10 @@ A versão atualmente publicada tem **96 páginas** e inclui:
 - função de partição do gás ideal e paradoxo de Gibbs;
 - equipartição da energia e cinética de gases diluídos;
 - distribuição grande canónica e potencial químico;
-- estatísticas de Fermi-Dirac e Bose-Einstein;
-- notas matemáticas complementares.
+- estatísticas de Fermi–Dirac e Bose–Einstein;
+- gás de eletrões num metal e energia de Fermi;
+- radiação do corpo negro, lei de Wien e lei de Stefan-Boltzmann;
+- notas matemáticas e numéricas complementares.
 
 ## Estrutura do repositório
 
@@ -44,7 +50,7 @@ A versão atualmente publicada tem **96 páginas** e inclui:
 | [`HISTORICO_DO_PROJETO.md`](HISTORICO_DO_PROJETO.md) | Principais marcos cronológicos do desenvolvimento |
 | [`DECLARACAO_DE_AUTORIA_E_IA.md`](DECLARACAO_DE_AUTORIA_E_IA.md) | Declaração de autoria e descrição do uso de inteligência artificial |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Como comunicar erros ou imprecisões |
-| [`88/`](88/) | Parte intencional do projeto |
+| [`89/`](89/) | Parte intencional do projeto |
 
 Os nomes originais das fotografias foram preservados. As datas incorporadas
 nesses nomes, os manuscritos, as versões sucessivas do PDF e o
