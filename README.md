@@ -23,9 +23,9 @@ da bibliografia da unidade curricular. Procura apresentar capítulos concisos,
 ligados entre si e fáceis de consultar, reconstruindo os passos intermédios que
 frequentemente ficam implícitos em exposições mais breves.
 
-A versão **v1.0**, primeira versão integral do livro, tem **118 páginas**. O
-conteúdo está completo de acordo com o plano assumido para esta edição, embora
-permaneça sujeito à leitura integral e a correções posteriores.
+A versão **v1.1.0** tem **119 páginas** e resulta de uma revisão integral do
+conteúdo, da matemática, da linguagem e da apresentação tipográfica. O projeto
+permanece aberto à identificação de gralhas e à receção de sugestões.
 
 Inclui:
 
@@ -50,7 +50,7 @@ Inclui:
 | [`HISTORICO_DO_PROJETO.md`](HISTORICO_DO_PROJETO.md) | Principais marcos cronológicos do desenvolvimento |
 | [`DECLARACAO_DE_AUTORIA_E_IA.md`](DECLARACAO_DE_AUTORIA_E_IA.md) | Declaração de autoria e descrição do uso de inteligência artificial |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Como comunicar erros ou imprecisões |
-| [`89/`](89/) | Parte intencional do projeto |
+| [`90/`](90/) | Parte intencional do projeto |
 
 Os nomes originais das fotografias foram preservados. As datas incorporadas
 nesses nomes, os manuscritos, as versões sucessivas do PDF e o
@@ -88,9 +88,8 @@ A descrição completa encontra-se na
 
 ## Correções
 
-Erros e imprecisões podem ser comunicados através de
-[ruiazevedo18210@gmail.com](mailto:ruiazevedo18210@gmail.com?subject=F%C3%ADsica%20Estat%C3%ADstica),
-com o assunto **Física Estatística**. Sempre que possível, indica a página, a
+Erros e imprecisões podem ser comunicados seguindo as instruções em
+[`CONTRIBUTING.md`](CONTRIBUTING.md). Sempre que possível, indica a página, a
 secção e a passagem em causa.
 
 ## Licença

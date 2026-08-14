@@ -16,7 +16,8 @@ ser consultado nos manuscritos, nas versões anteriores do PDF e no
 | junho e julho de 2026 | Desenvolvimento da estrutura do livro, escrita dos capítulos, produção das figuras e organização progressiva dos manuscritos. |
 | 24 de julho de 2026 | Publicação de uma versão intermédia com 96 páginas e reorganização do repositório como arquivo público do desenvolvimento do projeto. |
 | 11 de agosto de 2026 | Publicação da **v1.0**, primeira versão integral: 118 páginas, oito capítulos e notas complementares. |
+| 14 de agosto de 2026 | Publicação da **v1.1.0**, após uma revisão integral do conteúdo, da matemática, da linguagem e da apresentação tipográfica: 119 páginas. |
 
-A v1.0 encerra o conteúdo previsto para esta edição. A leitura integral e as
-correções futuras serão registadas em novas versões, preservando este marco no
-histórico do repositório.
+A v1.1.0 constitui a versão revista do percurso previsto para esta edição.
+Correções futuras serão registadas em novas versões, preservando os marcos
+anteriores no histórico do repositório.
